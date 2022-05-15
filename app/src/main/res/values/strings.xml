@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Cart</string>
+    <string name="price">Price</string>
+    <string name="total">Total:</string>
+    <string name="checkout">Checkout</string>
+    <string name="zerovnd">0 VND</string>
+    <string name="product">Product Name</string>
+    <string name="cart">Cart</string>
+</resources>
